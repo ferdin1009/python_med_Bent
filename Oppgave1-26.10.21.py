@@ -4,4 +4,3 @@ bensinPris=float(input("Hva koster bensinen?"))
 lengde=float(input("Hvor langt skal du kjøre?"))
 
 
-
