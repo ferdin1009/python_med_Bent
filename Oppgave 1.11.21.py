@@ -7,4 +7,4 @@ if endring in ("sette inn"):
 else:
     uttak = float(input("hvor mye vil du ta ut: "))
     sparek = sparek - uttak
-print("ny saldo er"+ str(sparek) +"kroner" )
+print("ny saldo er %d kr" %sparek)
